@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/oussamaj/)
+
 <!--
 **oussamajilal/oussamajilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
